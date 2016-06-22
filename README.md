@@ -8,7 +8,7 @@ The GET request allows the user to see what is inside the stored file, `store.tx
 
 ## Trying it out
 
-You can try it out by first typing `npm start` in your terminal to run the server locally on `http://localhost:3000`.
+You can try it out by cloning this repo, typing `npm install` inside the directory, and then starting the server with `npm start` to run the server locally on `http://localhost:3000`.
 
 1. If you make a GET request to `http://localhost:3000/get`, you will get the default empty data as a response:
 
